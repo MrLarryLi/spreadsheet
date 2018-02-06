@@ -163,6 +163,7 @@ module Internals
     :labelsst   => 'v3V',
     :number     => "v3#{EIGHT_BYTE_DOUBLE}",
     :pagesetup  => "v8#{EIGHT_BYTE_DOUBLE}2v",
+    :pane       => 'v5',
     :margin     => "#{EIGHT_BYTE_DOUBLE}",
     :rk         => 'v3V',
     :row        => 'v4x4V',
